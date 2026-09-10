@@ -1,0 +1,5 @@
+GitHub Repository
+
+https://github.com/wayou/HTML5_Audio_Visualizer
+
+Audio Visualizer using HTML5 Audio API reminds me of when I built something with HTML from Spotify API. I would love to explore HTML5 and Audio API to see the differences and figure out which one would be easier. I am also just very interested in audio visualization and music based projects.
