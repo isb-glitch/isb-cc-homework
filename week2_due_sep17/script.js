@@ -1,5 +1,4 @@
-// change the quotes in this array. Be mindful of the quotation marks!
-// this is the only part of the file you need to edit!
+
 const quotes = [
  { text: "a type of computer programming in which the goal is to create something expressive instead of something functional", source: "Wikipedia" },
  { text: "is a process, based on exploration, iteration, reflection and discovery, where code is used as the primary medium to create a wide range of media artifacts", source: "Tim" },
